@@ -1,5 +1,5 @@
 # Exercicios-Java-01
-Exercícios de java se aprofundando mais em lógica com peculiaridades do Java
+Exercícios de java se aprofundando mais em lógica de programação com Java
 <hr>
 Utilização:<br>
 1.Break e continue<br>
